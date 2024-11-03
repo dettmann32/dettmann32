@@ -2,16 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+o+Lucas,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
-<div style="display: flex;">
-    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dettmann32&hide_progress=true&theme=aura" alt="ilustração do status do github">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dettmann32&show_icons=true&theme=aura">
+<div style="display: flex;"><img align='right' width="47%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dettmann32&hide_progress=true&theme=aura" alt="ilustração do status do github"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=dettmann32&show_icons=true&theme=aura">
 </div>
 
 # Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 <br>
 <br>
 
