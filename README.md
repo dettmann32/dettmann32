@@ -18,8 +18,8 @@
   <a href="www.linkedin.com/in/lucas-dettmann-837130272">
     <img src="https://img.shields.io/badge/-Linkedin-976FEC?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
   </a>
-  <a href="https://github.com/dettmann32">
-    <img src="https://img.shields.io/github/followers/matheus-dev-oliveira?label=follow&style=social&color=9370DB" alt="GitHub" style="width: 182px;">
+  <a href="www.linkedin.com/in/lucas-dettmann-837130272">
+    <img src="https://img.shields.io/github/followers/dettmann32?label=follow&style=social&color=9370DB" alt="GitHub" style="width: 182px;">
   </a>
 </div>
 
