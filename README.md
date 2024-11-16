@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=976FEC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+o+Lucas,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 <div style="display: flex;"><img align='right' width="47%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dettmann32&hide_progress=true&theme=aura" alt="ilustração do status do github"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=dettmann32&show_icons=true&theme=aura">
 </div>
